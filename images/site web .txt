@@ -19,6 +19,17 @@ iguane -> http://www.deviantart.com/art/Iguana-74881092
 jaguar -> http://img0.gtsstatic.com/wallpapers/4c99ef452c54fe6095628323b14420a1_large.jpeg
 kraken -> http://www.deviantart.com/art/Kraken-57587584
 licorne -> http://www.deviantart.com/art/Demented-Unicorn-407626628
+minotaure -> http://andyparkart.deviantart.com/art/God-of-War-III-Minotaur-170991183
+necromancien -> http://io9.com/the-10-most-memorable-dungeons-dragons-monsters-1326074030
+ogre -> http://www.pinterest.com/pin/385128205607005669/
+pterodactyle -> http://perlbal.hi-pi.com/blog-images/164496/mn/1172669068.jpg
+rhinoceros -> http://www.pinterest.com/pin/441212094717645769/
+satyre -> http://www.pinterest.com/pin/503136589591508355/
+troll -> http://images.wikia.com/labibliotecadelviejomundo/es/images/6/6e/Concept-_stone_troll-_GW_by_adrian-smith.jpg
+ubuntu -> http://www.net-tools.org/web/images/stories/ubuntu.tux.png
+vampire -> http://www.pinterest.com/pin/518476975822240387/
+yeti -> http://www.pinterest.com/pin/400468591839294957/
+zombie -> http://media-cache-ec0.pinimg.com/originals/85/62/a5/8562a5366b57d0b63983c8709b8642e7.jpg
 
 http://media-cache-ak0.pinimg.com/736x/71/77/58/717758003f52e2d75a031cd3d5fc5448.jpg
 http://media-cache-ak0.pinimg.com/736x/7b/67/0e/7b670ebb418be0d019595cd756a840ed.jpg
